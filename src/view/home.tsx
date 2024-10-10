@@ -4,6 +4,7 @@ import Hero from "@/components/hero/hero";
 import Products from "@/components/product/products";
 import Review from "@/components/review-section/review";
 import Arrival from "@/components/new-arrival/arrival";
+import SubFooter from "@/components/footer/sub-footer";
 
 const HomeView = () => {
   return (
@@ -14,6 +15,7 @@ const HomeView = () => {
       <Products />
       <Review />
       <Arrival />
+      <SubFooter />
     </div>
   );
 };
