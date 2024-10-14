@@ -5,6 +5,7 @@ import Products from "@/components/product/products";
 import Review from "@/components/review-section/review";
 import Arrival from "@/components/new-arrival/arrival";
 import SubFooter from "@/components/footer/sub-footer";
+import Footer from "@/components/footer/footer";
 
 const HomeView = () => {
   return (
@@ -16,6 +17,7 @@ const HomeView = () => {
       <Review />
       <Arrival />
       <SubFooter />
+      <Footer />
     </div>
   );
 };

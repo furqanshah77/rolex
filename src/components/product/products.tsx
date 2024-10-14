@@ -1,4 +1,4 @@
-import { ProductCard } from "@/constand/product-card-data";
+import { ProductCard } from "@/constant/product-card-data";
 import ProductsCard from "../card/products-card";
 import Heading from "../common/heading";
 

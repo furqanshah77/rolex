@@ -1,4 +1,4 @@
-import { NewArrivalData } from "@/constand/new-arrival";
+import { NewArrivalData } from "@/constant/new-arrival";
 import NewArrival from "../card/new-arrival";
 import Heading from "../common/heading";
 

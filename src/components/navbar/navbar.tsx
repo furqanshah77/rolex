@@ -6,7 +6,7 @@ import { AiOutlineShopping } from "react-icons/ai";
 import { BiGridAlt } from "react-icons/bi";
 import Sidebar from "./sidebar";
 import Theme from "../theme-toggle/theme";
-import { navList } from "@/constand/navlist";
+import { navList } from "@/constant/navlist";
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
